@@ -11,18 +11,12 @@ help Node.js collaborators maintain the Node.js project.
 
 The automation team is currently structured like this:
 
-- @nodejs/automation
-  - @nodejs/automation-collaborators
-    - @nodejs/automation-admins
-
-@nodejs/automation are the people to ping for automation-related issues in
+- **@nodejs/automation**: people to ping for automation-related issues in
 the organization.
-
-@nodejs/automation-collaborators has write access to all automation-related
-repositories.
-
-@nodejs/automation-admins has admin access to all automatino-related
-repositories.
+  - **@nodejs/automation-collaborators**: has write access to all
+  automation-related repositories.
+    - **@nodejs/automation-admins**: has admin access to all
+    automatino-related repositories.
 
 ## Projects / Repositories
 
