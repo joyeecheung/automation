@@ -16,7 +16,7 @@ the organization.
   - **@nodejs/automation-collaborators**: has write access to all
   automation-related repositories.
     - **@nodejs/automation-admins**: has admin access to all
-    automatino-related repositories.
+    automation-related repositories.
 
 ## Projects / Repositories
 
