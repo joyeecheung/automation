@@ -37,4 +37,5 @@ the organization.
   - A [nodejs/node](https://github.com/nodejs/node) clone for testing tools
     and bots.
 - [node-review](https://github.com/nodejs/node-review)
-  - Generate the metadata required for landing a Node.js Pull Request.
+  - A browser extension that generates the metadata required for landing
+    a Node.js Pull Request.
